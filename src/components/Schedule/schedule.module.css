@@ -25,3 +25,9 @@
   .exImg{
     margin: 1.5rem;
   }
+
+@media(max-width:450px){
+    h1{
+        font-size: 1.5rem;
+    }
+}
